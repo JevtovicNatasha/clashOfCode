@@ -1,11 +1,12 @@
 
-The program:
+/** The program:
 Your program must reverse all the letters of the words in a given sentence.
 Input: Hello World
 Output:olleH dlrow
-
 Solution:
-Input for testing: Hello World, Om nom nom, Lorem Ipsum Dice Deus, Numbers
+Inputs for testing: Hello World, Om nom nom, Lorem Ipsum Dice Deus, Numbers
+**/
+
 <?php 
 $input;
 $explode_input = explode(" ", $input);
